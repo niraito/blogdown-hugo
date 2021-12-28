@@ -12,7 +12,7 @@ links:
 slides: example-slides
 summary: "An abstract sample of a research project."
 tags:
-- Secondary metabolism
+- Secondary Metabolism
 - Retrosynthesis
 title: "Secondary Metabolite Retrosynthesis"
 url_code: ""
